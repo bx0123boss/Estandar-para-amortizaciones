@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/SFOM/modules/com/tasf/orion/main/lib/OrionSFI_core_commons.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/SFOM/modules/com/tasf/orion/main/lib/OrionSFI_core_estandarTransacciones.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/SFOM/modules/com/tasf/orion/main/lib/OrionSFI_core_estandarAmortizaciones.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/SFOM/modules/com/tasf/orion/main/lib/OrionSFI_core_fechaInstitucion.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/SFOM/modules/com/tasf/orion/main/lib/OrionSFI_core_estandarFechas.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
